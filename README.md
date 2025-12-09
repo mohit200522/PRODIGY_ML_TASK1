@@ -1,4 +1,4 @@
-🔗**PRODIGY INFOTECH_ML_TASK_01**
+PRODIGY INFOTECH_ML_TASK_01
 # 🏡 House Price Prediction using Linear Regression
 
 A machine learning project that predicts **house prices** based on features such as **square footage**, **number of bedrooms**, and **bathrooms** using **Linear Regression**.
