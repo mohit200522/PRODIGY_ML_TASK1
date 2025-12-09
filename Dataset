@@ -1,0 +1,13 @@
+📝 Task-01
+
+Implement a linear regression model to predict the prices of houses based on:
+
+their square footage,
+
+the number of bedrooms, and
+
+the number of bathrooms.
+
+Dataset link provided in the image:
+
+🔗 https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
